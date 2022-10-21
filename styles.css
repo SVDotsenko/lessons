@@ -25,3 +25,27 @@ body {
   max-width: 750px;
   margin: auto;
 }
+
+/* .social {
+  background: green;
+  padding: 15px;
+  border: 5px solid red;
+  margin: 50px;
+  outline-color: yellow;
+} */
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+}
+
+a:visited {
+  color: orange;
+}
