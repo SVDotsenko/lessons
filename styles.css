@@ -71,3 +71,10 @@ a:visited {
 .social {
   margin-bottom: 20px;
 }
+
+.list li {
+  padding: 0 20px;
+  color: gray;
+  margin-bottom: 10px;
+  /* list-style: none; */
+}
