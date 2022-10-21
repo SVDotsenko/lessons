@@ -78,3 +78,20 @@ a:visited {
   margin-bottom: 10px;
   /* list-style: none; */
 }
+
+.table {
+  width: 100%;
+}
+
+.table td {
+  padding-bottom: 10px;
+}
+
+.table td:nth-child(2),
+.table td:nth-child(3) {
+  color: grey;
+}
+
+/* .table tr:nth-child(even) {
+  background-color: red;
+} */
