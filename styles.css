@@ -49,3 +49,25 @@ a:active {
 a:visited {
   color: orange;
 }
+
+.card {
+  padding: 15px 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.bg-yellow {
+  background: #fff9dc;
+}
+
+.bg-green {
+  background: #e5ffe7;
+}
+
+.bg-red {
+  background: #ffe5e5;
+}
+
+.social {
+  margin-bottom: 20px;
+}
