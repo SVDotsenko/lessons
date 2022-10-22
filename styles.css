@@ -95,3 +95,39 @@ a:visited {
 /* .table tr:nth-child(even) {
   background-color: red;
 } */
+
+.contact h2 {
+  text-align: center;
+}
+
+.form-group label {
+  display: block;
+  font-size: 14px;
+  color: gray;
+}
+
+.form-group input,
+.form-group textarea {
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  background: transparent;
+  border-bottom: 1px solid #ccc;
+  color: black;
+  padding: 15px 0 10px;
+  outline: none;
+  font-family: inherit;
+}
+
+.row {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.row > .form-group {
+  width: 50%;
+}
+
+.row > .form-group:first-child {
+  margin-right: 20px;
+}
